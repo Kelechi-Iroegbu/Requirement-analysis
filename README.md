@@ -25,7 +25,7 @@ Clear requirements help project managers estimate the necessary resources, budge
 
 Since the requirements serve as a benchmark for testing, the development team can verify that every feature meets the defined standards  resulting in a high-quality, user-approved product.
 
-##Why is Requirement-Analysis Important?
+# Why is Requirement Analysis Important
 1. Ensures a Clear Understanding of Stakeholder Needs
 Through activities like interviews, workshops, and prototyping, requirement analysis helps teams gather and clarify stakeholder expectations. This prevents misunderstandings and ensures that the software solution aligns with actual user needs and business goals.
 2. Provides a Strong Foundation for Design, Development, and Testing
