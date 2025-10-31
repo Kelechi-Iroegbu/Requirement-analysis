@@ -193,7 +193,7 @@ The diagram below illustrates the interactions between different users and the b
 - Manage users  
 - Manage bookings  
 
-alx-booking-uc.png
+_alx-booking-uc.png_
 ##Describe what Use Case Diagrams are and their benefits.
 Diagram elements to include:
 
