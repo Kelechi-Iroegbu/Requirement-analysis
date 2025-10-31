@@ -228,7 +228,7 @@ Admin → Manage Users, Manage Bookings
 Book Room → includes → Make Payment
 
 Payment Service → handles → Make Payment
-![Booking System Use Case Diagram](alx-booking-uc.png)
+alx-booking-uc.png
 ## Acceptance Criteria
 
 ### Importance of Acceptance Criteria in Requirement Analysis
